@@ -1,5 +1,5 @@
-react-autocomplete (combobox)
-=============================
+# react-autocomplete (combobox) 
+> Moving from [rackt/react-autocomplete](https://github.com/rackt/react-autocomplete).
 
 [WAI-ARIA][wai-aria] accessible [React][react] autocomplete component (combobox).
 
