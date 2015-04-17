@@ -9,6 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "classnames": "^1.2.0",
     "react": "^0.10.0"
   },
   "devDependencies": {
